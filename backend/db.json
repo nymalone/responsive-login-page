@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Joe Doe",
+      "age": 33,
+      "email": "joe@doe.com",
+      "password": "",
+      "address": "100 1st street, Santa Monica, Los Angeles"
+    }
+  ]
+}
